@@ -2,7 +2,7 @@
 ## Heyo :wave: Everyone, 
 
 <p align="center">
-  <img src="https://github.com/AmineMahdioui/AmineMahdioui/blob/master/.github/images/hello_word.gif" width=500>
+  <img src="https://raw.githubusercontent.com/AmineMahdioui/AmineMahdioui/master/.github/images/hello_word.gif" width=500>
   <br><br>
   <samp>
     I'm <a href="https://github.com/AmineMahdioui/">Mohamed Amine</a> currently a Third Year student <a href="http://www.ensa-agadir.ac.ma/">@ENSAA:school:</a> and aspiring software developer:computer:. Interested in working with Python, Databases and currently learning about Data Science and Artificial Intelligence.
@@ -10,12 +10,12 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="https://github.com/AmineMahdioui/AmineMahdioui/blob/master/.github/images/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width=60> | <img src="https://github.com/AmineMahdioui/AmineMahdioui/blob/master/.github/images/2048px-Python-logo-notext.svg.png" width=60> |
+|<img src="https://raw.githubusercontent.com/AmineMahdioui/AmineMahdioui/master/.github/images/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width=60> | <img src="https://raw.githubusercontent.com/AmineMahdioui/AmineMahdioui/master/.github/images/2048px-Python-logo-notext.svg.png" width=60> |
 |:---:|:---:|
 
 
 ### Tools :fire:
-|<img src="https://github.com/AmineMahdioui/AmineMahdioui/blob/master/.github/images/vs-code-2336946-1982827.png" width=60> | <img src="https://github.com/AmineMahdioui/AmineMahdioui/blob/master/.github/images/github-icon-1-logo.svg" width=60> | 
+|<img src="https://raw.githubusercontent.com/AmineMahdioui/AmineMahdioui/master/.github/images/vs-code-2336946-1982827.png" width=60> | <img src="https://raw.githubusercontent.com/AmineMahdioui/AmineMahdioui/master/.github/images/github-icon-1-logo.svg" width=60> | 
 |:---:|:---:|
 ### Topics I'm intrested in:
 
