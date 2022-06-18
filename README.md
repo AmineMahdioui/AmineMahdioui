@@ -5,7 +5,11 @@
   <img src="https://raw.githubusercontent.com/AmineMahdioui/AmineMahdioui/master/.github/images/hello_word.gif" width=500>
   <br><br>
   <samp>
+<<<<<<< HEAD
     I'm <a href="https://github.com/AmineMahdioui/">Mohamed Amine</a> currently a Third Year student at <a href="http://www.ensa-agadir.ac.ma/">@ENSAA:school:</a> and aspiring data scientist  :computer:. Interested in working with Python, Databases and currently learning about Data Science and Artificial Intelligence.
+=======
+    I'm <a href="https://github.com/AmineMahdioui/">Mohamed Amine</a> currently a Third Year student at <a href="http://www.ensa-agadir.ac.ma/">@ENSAA:school:</a> and aspiring to be a Data scientest :computer:. Interested in working with Python, Databases and currently learning about Data Science and Artificial Intelligence.
+>>>>>>> 4077dd59e1328bc02000e42cded6f332f8680c0d
   </samp>
 </p>
 
